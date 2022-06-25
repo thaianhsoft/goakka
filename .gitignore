@@ -1,2 +1,2 @@
-./.ideas
-./main.go
+.ideas/*
+main.go
